@@ -11,17 +11,8 @@ node_ckeditor_uploader.js是一个为Ckeditor添加上传控件的扩展代码, 
 
 ##屏幕截图
 
-![screenshot](http://d2.freep.cn/3tb_140614203123qmef533354.png)
 
-![screenshot](http://d2.freep.cn/3tb_140614203123al07533354.png)
 
-![screenshot](http://d3.freep.cn/3tb_140614203123ln1a533354.png)
-
-![screenshot](http://d3.freep.cn/3tb_1406142031231dpc533354.png)
-
-![screenshot](http://d2.freep.cn/3tb_140614203124xfvu533354.png)
-
-![screenshot](http://d3.freep.cn/3tb_140614203124e07n533354.png)
 
 ##如何使用
 
